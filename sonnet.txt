@@ -1,0 +1,18 @@
+Apache Spark, a wonder of our time,
+A tool for big data, swift and sure,
+With power to process mountains of mime
+And bring insights beyond what was obscure.
+
+With its in-memory processing so grand,
+It makes analysis lightning fast and bright,
+And with its cluster manager at command,
+It conquers tasks of great complexity and might.
+
+From machine learning to streaming, too,
+It handles it all with skill and finesse,
+With APIs for Java, Python, and new
+It broadens the scope of analytics to impress.
+
+Apache Spark, a true work of art,
+A shining example of technology's heart.
+
